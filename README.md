@@ -33,7 +33,7 @@ For a list of commands, <a href="https://github.com/KaosDrip/fortnitepy-bot/wiki
 "banner_colour": "defaultcolor15",                          - The colour of the banner icon.
 "level": "100",                                             - Sets the clients level.
 "bp_tier": 999999999,                                       - Sets the clients battle pass tier.
-"status": "Created by xMistt, enjoy! <3",                   - Sets the clients presence.
+"status": "Created by Get3rdPartyd, enjoy! <3",                   - Sets the clients presence.
 "platform": "AND",                                          - Sets the clients platform seen in the lobby.
  ** ALL Platforms: **
  * XBL
